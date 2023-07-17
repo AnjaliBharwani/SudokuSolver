@@ -1,18 +1,23 @@
-![image](https://github.com/AnjaliBharwani/Sudoku_Solver/assets/139613568/7b0c1c06-1327-484b-b389-7f71c6cf632b)![image](https://github.com/AnjaliBharwani/Sudoku_Solver/assets/139613568/e1162aa2-2ceb-4084-8f5b-8b9872037e57)# Sudoku_Solver
+/home/anjali/Pictures/Screenshot from 2023-07-18 04-16-55.png
+/home/anjali/Pictures/Screenshot from 2023-07-18 04-33-50.png
+/home/anjali/Pictures/Screenshot from 2023-07-18 04-16-48.png
+/home/anjali/Pictures/Screenshot from 2023-07-18 04-12-55.png
+/home/anjali/Pictures/Screenshot from 2023-07-18 04-12-30.png
+/home/anjali/Pictures/Screenshot from 2023-07-18 04-12-23.png
+/home/anjali/Pictures/Screenshot from 2023-07-18 04-12-16.png
 
-![image](https://github.com/AnjaliBharwani/Sudoku_Solver/assets/139613568/f1aa8ab3-38d2-4805-839c-bf6fab270552
-file:///home/anjali/Pictures/Screenshot%20from%202023-07-18%2004-12-16.png
-As the name indicates, the project is to solve a Sudoku puzzle. It also includes some special features. 
+# Sudoku_Solver:-
+- As the name indicates, the project is to solve a Sudoku puzzle. It also includes some special features. 
+- Sudoku is a combinatorial number-placement puzzle with a 9 x 9 cell grid partially filled in with numbers from 1 to 9. The goal is to fill the remaining, blank fields with the rest of the numbers so that each row and column will have only one number of each kind.
 
-Sudoku is a combinatorial number-placement puzzle with a 9 x 9 cell grid partially filled in with numbers from 1 to 9. The goal is to fill the remaining, blank fields with the rest of the numbers so that each row and column will have only one number of each kind.
-
-this project is a logic-based puzzle that uses combinatorial-number placement. In a classic Sudoku puzzle, the task is to fill the numbers in a 9 x 9 grid laced in such a way that each row, each column, and each of the sub-grid of the size 3 x 3 contains all the numbers from 1 to 9.
-
-In this approach, we assign numbers one-by-one to empty cells. Before assigning any number, we check whether the same is present in the current column, current row, or the current 3 x 3 sub-grid or not. If the same number is present, then we take another number and check its safety.
-
+# Introduction:-
+-This project is a logic-based puzzle that uses combinatorial-number placement. In a classic Sudoku puzzle, the task is to fill the numbers in a 9 x 9 grid laced in such a way that each row, each column, and each of the sub-grid of the size 3 x 3 contains all the numbers from 1 to 9.
+-In this approach, we assign numbers one-by-one to empty cells. Before assigning any number, we check whether the same is present in the current column, current row, or the current 3 x 3 sub-grid or not. If the same number is present, then we take another number and check its safety.
+# Process:-
 fist of all we have some empty space in the project, by clicking the below 1 to 9 number u can fill it in and check it.
-1ss
+![image](https://github.com/AnjaliBharwani/Sudoku_Solver/assets/139613568/1edc5f98-f4fa-443b-ab19-99ce3e17054a)
 file:///home/anjali/Pictures/Screenshot%20from%202023-07-18%2004-12-16.png
+1. 1 to 9 Buttons:- we can see all buttons from 1 to 9 are blue in color in one line. but when we select any of these numbers it will turn BLUE, and the rest all turn black.
 in this project, at last, we saw 4 buttons are there, we can see the uses and functions of these numbers one by one,
 1. Reset button:- by clicking this button we can reset our game, when we click on the reset button we got a confirmation YES_NO message to reset, as we see in the below picture.
 
