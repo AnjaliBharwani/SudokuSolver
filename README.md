@@ -1,6 +1,6 @@
 # Sudoku_Solver
 ![image](https://github.com/AnjaliBharwani/Sudoku_Solver/assets/139613568/f1aa8ab3-38d2-4805-839c-bf6fab270552
-
+file:///home/anjali/Pictures/Screenshot%20from%202023-07-18%2004-12-16.png
 As the name indicates, the project is to solve a Sudoku puzzle. It also includes some special features. 
 
 Sudoku is a combinatorial number-placement puzzle with a 9 x 9 cell grid partially filled in with numbers from 1 to 9. The goal is to fill the remaining, blank fields with the rest of the numbers so that each row and column will have only one number of each kind.
