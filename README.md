@@ -1,4 +1,5 @@
-# Sudoku_Solver
+![image](https://github.com/AnjaliBharwani/Sudoku_Solver/assets/139613568/e1162aa2-2ceb-4084-8f5b-8b9872037e57)# Sudoku_Solver
+
 ![image](https://github.com/AnjaliBharwani/Sudoku_Solver/assets/139613568/f1aa8ab3-38d2-4805-839c-bf6fab270552
 file:///home/anjali/Pictures/Screenshot%20from%202023-07-18%2004-12-16.png
 As the name indicates, the project is to solve a Sudoku puzzle. It also includes some special features. 
@@ -11,6 +12,7 @@ In this approach, we assign numbers one-by-one to empty cells. Before assigning 
 
 fist of all we have some empty space in the project, by clicking the below 1 to 9 number u can fill it in and check it.
 1ss
+file:///home/anjali/Pictures/Screenshot%20from%202023-07-18%2004-12-16.png
 in this project, at last, we saw 4 buttons are there, we can see the uses and functions of these numbers one by one,
 1. Reset button:- by clicking this button we can reset our game, when we click on the reset button we got a confirmation YES_NO message to reset, as we see in the below picture.
 ss
