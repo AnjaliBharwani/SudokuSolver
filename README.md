@@ -1,9 +1,15 @@
 /home/anjali/Pictures/Screenshot from 2023-07-18 04-16-55.png
+
 /home/anjali/Pictures/Screenshot from 2023-07-18 04-33-50.png
+
 /home/anjali/Pictures/Screenshot from 2023-07-18 04-16-48.png
+
 /home/anjali/Pictures/Screenshot from 2023-07-18 04-12-55.png
+
 /home/anjali/Pictures/Screenshot from 2023-07-18 04-12-30.png
+
 /home/anjali/Pictures/Screenshot from 2023-07-18 04-12-23.png
+
 /home/anjali/Pictures/Screenshot from 2023-07-18 04-12-16.png
 
 # Sudoku_Solver:-
