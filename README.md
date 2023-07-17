@@ -15,7 +15,7 @@ fist of all we have some empty space in the project, by clicking the below 1 to 
 file:///home/anjali/Pictures/Screenshot%20from%202023-07-18%2004-12-16.png
 in this project, at last, we saw 4 buttons are there, we can see the uses and functions of these numbers one by one,
 1. Reset button:- by clicking this button we can reset our game, when we click on the reset button we got a confirmation YES_NO message to reset, as we see in the below picture.
-ss
+
 ![image](https://github.com/AnjaliBharwani/Sudoku_Solver/assets/139613568/1edc5f98-f4fa-443b-ab19-99ce3e17054a)
 
 2. Exit button:- if we want to exit then we can click on the exit button and by clicking exit we get a confirmation message "If you want to exit: yes or no". if we click on yes, then it should close the game application. and if we do not want to exit, then click "no".
