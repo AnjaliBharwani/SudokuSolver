@@ -22,10 +22,10 @@ in this project, at last, we saw 4 buttons are there, we can see the uses and fu
 4. solution and hide solution:- when we need the solution of this sudoku game we can click on solution and we find the solution. after clicking the solution its button name becomes a hide solution now if we click this hide solution button, we can hide our solution.
 ![image](https://github.com/AnjaliBharwani/Sudoku_Solver/assets/139613568/a0bb5673-cdf9-413b-a447-d98cdcb71b5a)                                                                           
 
-5. check moves:- then after putting the numbers, there is an option to check moves, with the help of this button we can check our moves, which are right and wrong, if we put the wrong number then its turned red, 
+5. check moves:- then after putting the numbers, there is an option to check moves, with the help of this button we can check our moves, which are right and wrong, if we put the wrong number then its turned red,                   
 ![image](https://github.com/AnjaliBharwani/Sudoku_Solver/assets/139613568/96d73849-8510-470d-a433-c1e7c1ffe79f)                                                                                
-and for which are correct then it remains the same,
-![image](https://github.com/AnjaliBharwani/Sudoku_Solver/assets/139613568/27ae2056-4bf1-4491-ac6b-89f8e7e9f4e8)                                                                               
+and for which are correct then it remains the same,                                                                                                                                           
+![image](https://github.com/AnjaliBharwani/Sudoku_Solver/assets/139613568/27ae2056-4bf1-4491-ac6b-89f8e7e9f4e8)                                                                                                                                                                 
 
 # conclusion:-
 - The object of the puzzle is to fill the remaining squares, using all the numbers 1–9 exactly once in each row, column, and the nine 3 × 3 subgrids.
