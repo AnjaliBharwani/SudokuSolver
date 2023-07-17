@@ -9,12 +9,11 @@
 fist of all we have some empty space in the project, by clicking the below 1 to 9 number u can fill it in and check it.
 ![image](https://github.com/AnjaliBharwani/Sudoku_Solver/assets/139613568/1edc5f98-f4fa-443b-ab19-99ce3e17054a)                                                                          
 
-1. 1 to 9 Buttons:- we can see all buttons from 1 to 9 are blue in color in one line. but when we select any of these numbers it will turn BLUE, and the rest all turn black.
-![image](https://github.com/AnjaliBharwani/Sudoku_Solver/assets/139613568/2103d897-6114-43d4-a1b1-f2ac88622f16)                                                                             
-
+1. 1 to 9 Buttons:- we can see all buttons from 1 to 9 are blue in color in one line. but when we select any of these numbers it will turn BLUE, and the rest all turn black.                     
+![image](https://github.com/AnjaliBharwani/Sudoku_Solver/assets/139613568/2103d897-6114-43d4-a1b1-f2ac88622f16)                                                                                        
 in this project, at last, we saw 4 buttons are there, we can see the uses and functions of these numbers one by one,
-2. Reset button:- by clicking this button we can reset our game, when we click on the reset button we got a confirmation YES_NO message to reset, as we see in the below picture.
-![image](https://github.com/AnjaliBharwani/Sudoku_Solver/assets/139613568/763c0bdf-5534-4e31-81eb-d7f1fd48dc23)                                                                          
+2. Reset button:- by clicking this button we can reset our game, when we click on the reset button we got a confirmation YES_NO message to reset, as we see in the below picture.                
+![image](https://github.com/AnjaliBharwani/Sudoku_Solver/assets/139613568/763c0bdf-5534-4e31-81eb-d7f1fd48dc23)                                                                                       
 
 3. Exit button:- if we want to exit then we can click on the exit button and by clicking exit we get a confirmation message "If you want to exit: yes or no". if we click on yes, then it should close the game application. and if we do not want to exit, then click "no".
 ![image](https://github.com/AnjaliBharwani/Sudoku_Solver/assets/139613568/a1388ae3-7690-4ece-8cf8-53a21ce14a41)                                                                             
