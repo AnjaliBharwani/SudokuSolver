@@ -1,4 +1,5 @@
-![image](https://github.com/AnjaliBharwani/Sudoku_Solver/assets/139613568/f1aa8ab3-38d2-4805-839c-bf6fab270552)# Sudoku_Solver
+# Sudoku_Solver
+![image](https://github.com/AnjaliBharwani/Sudoku_Solver/assets/139613568/f1aa8ab3-38d2-4805-839c-bf6fab270552
 
 As the name indicates, the project is to solve a Sudoku puzzle. It also includes some special features. 
 
