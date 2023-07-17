@@ -1,4 +1,4 @@
-![image](https://github.com/AnjaliBharwani/Sudoku_Solver/assets/139613568/e1162aa2-2ceb-4084-8f5b-8b9872037e57)# Sudoku_Solver
+![image](https://github.com/AnjaliBharwani/Sudoku_Solver/assets/139613568/7b0c1c06-1327-484b-b389-7f71c6cf632b)![image](https://github.com/AnjaliBharwani/Sudoku_Solver/assets/139613568/e1162aa2-2ceb-4084-8f5b-8b9872037e57)# Sudoku_Solver
 
 ![image](https://github.com/AnjaliBharwani/Sudoku_Solver/assets/139613568/f1aa8ab3-38d2-4805-839c-bf6fab270552
 file:///home/anjali/Pictures/Screenshot%20from%202023-07-18%2004-12-16.png
@@ -20,11 +20,13 @@ ss
 2. Exit button:- if we want to exit then we can click on the exit button and by clicking exit we get a confirmation message "If you want to exit: yes or no". if we click on yes, then it should close the game application. and if we do not want to exit, then click "no".
 ss
 
-3. solution and hide solution:- when we need the solution of this sudoku game we can click on solution and we find the solution. after clicking solution its nutton name become a hide solution now if we click this hide solution button, we can hide our solution.
+3. solution and hide solution:- when we need the solution of this sudoku game we can click on solution and we find the solution. after clicking the solution its button name becomes a hide solution now if we click this hide solution button, we can hide our solution.
 ss
 
 4. check moves:- then after putting the numbers, there is an option to check moves, with the help of this button we can check our moves, which are right and wrong, if we put the wrong number then its turned red, and for which are correct then it remains same, 
 ss
 
 we can easily execute this program with the help of this.
+
+file:///home/anjali/Pictures/Screenshot%20from%202023-07-18%2004-12-16.png
 
