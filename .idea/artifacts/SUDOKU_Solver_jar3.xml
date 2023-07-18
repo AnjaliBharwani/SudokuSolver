@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SUDOKU_Solver:jar3">
+    <output-path>$PROJECT_DIR$/out/artifacts/SUDOKU_Solver_jar3</output-path>
+    <root id="archive" name="SUDOKU_Solver.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="SUDOKU_Solver" />
+    </root>
+  </artifact>
+</component>
